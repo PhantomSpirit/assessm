@@ -1,0 +1,9 @@
+package main;
+
+public abstract class Bob extends Character{
+	public void jacket() {
+		System.out.println("Leather Jacket");
+	}
+	
+
+}

@@ -1,0 +1,8 @@
+package main;
+
+public class Bob extends Character {
+	private void Bob() {
+		
+	}
+
+}

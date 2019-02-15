@@ -1,0 +1,10 @@
+package main;
+
+public class Dice extends JavaAssessment {
+	public void calcula() {
+		System.out.println(Math.random() * 10);
+		
+	}
+	
+
+}

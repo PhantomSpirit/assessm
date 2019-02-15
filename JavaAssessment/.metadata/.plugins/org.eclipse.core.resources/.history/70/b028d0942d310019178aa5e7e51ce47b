@@ -1,0 +1,9 @@
+package main;
+
+public class Dice extends JavaAssessment {
+	public void calcula() {
+		
+	}
+	
+
+}

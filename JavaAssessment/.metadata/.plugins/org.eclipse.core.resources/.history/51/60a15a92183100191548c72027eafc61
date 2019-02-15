@@ -1,0 +1,15 @@
+package main;
+
+public class Character extends JavaAssessment{
+	public void jacket() {
+		System.out.println("Leather Jacket");
+		
+	}
+	public void jeans() {
+		System.out.println("Black jeans");
+	}
+	public void boots() {
+		System.out.println("Millitary boots");
+	}
+
+}
